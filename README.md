@@ -22,5 +22,3 @@ Here are some ideas to get you started:
 ![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![react](https://img.shields.io/badge/React.js-374151?style=for-the-badge&logo=react&logoColor=#61DAFB)
 ![vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-[![My stats](https://github-readme-stats.vercel.app/api?username=gokhantaskan)](https://github.com/gokhantaskan/github-readme-stats)
