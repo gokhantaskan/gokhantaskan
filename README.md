@@ -7,6 +7,13 @@
 🚀 Currently expanding into backend technologies  
 🤖 Enthusiastic about AI & emerging technologies
 
+🌱 **Experience Areas**
+- Frontend Development
+- UI/UX Implementation
+- Blockchain Technology
+- Sustainable Energy
+- Emerging Tech & AI
+
 ### Tech Stack
 
 **Frontend Frameworks**  
@@ -35,15 +42,11 @@
 ![docker-compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
+<!--
 🔭 **Current Focus**
 - Vue/Nuxt ecosystem expert
 - Expanding fullstack capabilities with Hono and Drizzle ORM
 - Learning Next.js and containerization with Docker
 - Exploring AI technologies and applications
+-->
 
-🌱 **Experience Areas**
-- Frontend Development
-- UI/UX Implementation
-- Blockchain Technology
-- Emerging Tech & AI
