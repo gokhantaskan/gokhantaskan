@@ -5,7 +5,8 @@
 🌍 Based in Antalya, Turkiye  
 💻 Experienced in web applications, blockchain technology, and UI/UX implementation  
 🚀 Focusing on full-stack solutions with TypeScript  
-🤖 Building AI-powered solutions for emerging tech challenges
+🤖 Building AI-powered solutions for emerging tech challenges  
+🧑🏻‍💻 Creating a website that helps gamers discover games compatible with their specific combination of gaming systems like PlayStation, Xbox, and PC. Learn more: https://godo-play.com
 
 ## Tech Stack
 
