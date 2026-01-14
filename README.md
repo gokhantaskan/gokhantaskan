@@ -1,5 +1,5 @@
 <p style="font-size: 1.75rem">Hi there, I'm Gökhan 👋</p>
-<p>I'm a software developer with solid frontend expertise exploring AI integration and modern backend technologies.</p>
+<p>I'm a software developer with solid frontend expertise exploring AI and modern backend technologies.</p>
 
 ## Quick Info
 🌍 Based in Antalya, Turkiye
