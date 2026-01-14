@@ -2,11 +2,15 @@
 <p>I'm a software developer with solid frontend expertise exploring AI integration and modern backend technologies.</p>
 
 ## Quick Info
-🌍 Based in Antalya, Turkiye  
-💻 Experienced in web applications, blockchain technology, and UI/UX implementation  
-🚀 Focusing on full-stack solutions with TypeScript  
-🤖 Building AI-powered solutions for emerging tech challenges  
-🧑🏻‍💻 Creating a website that helps gamers discover games compatible with their specific combination of gaming systems like PlayStation, Xbox, and PC. Learn more: https://godo-play.com
+🌍 Based in Antalya, Turkiye
+
+💻 Experienced in web applications, blockchain technology, and UI/UX implementation
+
+🚀 Focusing on full-stack solutions with TypeScript and Python
+
+🧑🏻‍💻 Are you interested in gaming?  
+       Check out my website to find games across PlayStation 4/5, Xbox X|S, Mac, PC, and Nintendo Switch.
+       https://godo-play.com
 
 ## Tech Stack
 
