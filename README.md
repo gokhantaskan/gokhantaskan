@@ -10,7 +10,7 @@
 
 🧑🏻‍💻 Are you interested in gaming?  
        Check out my website to find games across PlayStation 4/5, Xbox X|S, Mac, PC, and Nintendo Switch.
-       https://godo-play.com
+       https://godo-play.com/games
 
 ## Tech Stack
 
