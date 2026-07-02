@@ -9,8 +9,11 @@
 🚀 Focusing on full-stack solutions with TypeScript and Python
 
 🧑🏻‍💻 Are you interested in gaming?  
-       Check out my website to find games across PlayStation 4/5, Xbox X|S, Mac, PC, and Nintendo Switch.
+       Check out my website to find games across PlayStation 4/5, Xbox X|S, Mac, PC, and Nintendo Switch:
        https://godo-play.com/games
+
+🙅🏻 Tired of recreating the same mobile app store screenshot frames for every platform? Try my Figma plugin: 
+       https://www.figma.com/community/plugin/1653544613084294877
 
 ## Tech Stack
 
